@@ -15,6 +15,9 @@
     }
    ],
    "source": [
+    "# the following python program calculates average of numbers from the list: 'number_list'\n",
+    "\n",
+    "\n",
     "def calculate_average(numbers):\n",
     "    if len(numbers) == 0:\n",
     "        return 0\n",
